@@ -1,2 +1,0 @@
-﻿print
-This repository is for demonstration of commands purpose only.
